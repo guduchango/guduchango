@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CSS, Flexbox, CssGrid, React, TypeScript, NextJs, TailwindCss**
 
-- 👨‍💻 All of my projects are available at [https://github.com/guduchango](https://github.com/guduchango)
+- 👨‍💻 All of my projects are available at [https://github.com/guduchango?tab=repositories](https://github.com/guduchango?tab=repositories)
 
 - 💬 Ask me about **php, laravel, react**
 
