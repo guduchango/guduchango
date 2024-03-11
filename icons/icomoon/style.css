@@ -73,6 +73,8 @@
 }
 .icon-home:before {
   content: "\e900";
+  font-size: 28px;
+  color: #d566ff;
 }
 .icon-home2:before {
   content: "\e901";
@@ -175,6 +177,8 @@
 }
 .icon-file-text:before {
   content: "\e92c";
+  font-size: 28px;
+  color: #dda10c;
 }
 .icon-profile:before {
   content: "\e92d";
@@ -280,13 +284,16 @@
 }
 .icon-envelop:before {
   content: "\e94f";
+  color: #ff75d8;
+  font-size: 28px;
 }
 .icon-pushpin:before {
   content: "\e950";
 }
 .icon-location:before {
   content: "\e951";
-  color: #dda10c;
+  color: #ff6080;
+  font-size: 28px;
 }
 .icon-location2:before {
   content: "\e952";
@@ -336,6 +343,8 @@
 }
 .icon-laptop:before {
   content: "\e961";
+  color: #ff6080;
+  font-size: 28px;
 }
 .icon-mobile:before {
   content: "\e962";

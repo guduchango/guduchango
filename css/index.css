@@ -7,32 +7,6 @@
     --white: #FFFFFF;
 }
 
-/* 
-.poppins-regular {
-    font-family: "Poppins", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .poppins-medium {
-    font-family: "Poppins", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-  }
-  
-  .poppins-semibold {
-    font-family: "Poppins", sans-serif;
-    font-weight: 600;
-    font-style: normal;
-  }
-  
-  .poppins-bold {
-    font-family: "Poppins", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-  } */
-  
-
 body {
     background-image: url(../images/bg.jpg);
     background-size: cover;
@@ -46,34 +20,53 @@ body {
     display: grid;
     grid-template-columns: 100%;
     grid-template-rows: px px 100px;
-    max-inline-size: 950px;
     inline-size: 100%;
     row-gap: 5px;
 }
 
 .header {
-    block-size: 80px;
-    border: 1px solid red;
-    background: #F3F6F6;
     border-radius: 16px;
+    position: sticky;
+    top: 0; 
+    z-index: 1000; 
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .header-wrapper {
-    background: #F3F6F6;
+    background-color: var(--white);
+    display: flex;
+    padding-block: 30px;
+    padding-inline: 30px;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    border-radius: 16px;
 }
 
-.header-wrapper ul {
-    display: flex;
-    flex-direction: row;
-    gap: 16px;
+
+
+.header-wrapper:hover .menu-list {
+    display: block;
+    margin-block-start: 100px;
+    transform: translate(-70%, 30%);
+    /* margin-block-end: 100px ; */
+    inline-size: 200px;
+    text-align: right;
+}
+
+.header-wrapper .menu-list {
+    background: red;
+}
+
+.header-wrapper .menu-list {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
     list-style-type: none;
-}
-
-.header-wrapper li {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-}
+    padding: 0;
+    margin: 0;
+  }
 
 
 .side-content {
@@ -81,24 +74,24 @@ body {
     
     margin-block-start: 180px;
     margin-block-end: 24px;
-    border-radius: 20px;
-}
-
-.menu {
-    /* border: 1px solid red;
-    margin-block: 100px; */
-}
-
-.content {
-    
+    border-radius: 20px; 
+    block-size: 33%;
 }
 
 /* details */ 
 
 .side-content-wrapper{
-    margin-block-start: 100px;
+    /* margin-block-start: 100px; */
     text-align: center;
     padding-inline: 24px;
+    
+}
+
+.side-content-wrapper img {
+    border-radius: 16px;
+    box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.1);
+    transform: translate(0, -50%);
+    margin-block-end: -125px;
 }
 
 .social-icons {
@@ -239,19 +232,17 @@ body {
 }
 
 
-/* @media screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
     .menu {
         display: none;
     }
-
-    
-} */
+}
 
 @media screen and (min-width: 900px) {
 
-    /* .header {
+    .header-wrapper {
         display: none;
-    } */
+    }
 
     body {
         /* margin: 0 auto; */
@@ -264,7 +255,7 @@ body {
 
     .layout-wrapper {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 0.5fr 1.5fr;
         grid-template-rows: px px px;
         column-gap: 40px;
     }
@@ -274,27 +265,65 @@ body {
     }
     
     .header {
-        box-shadow: inset 0 0 0 1px red;
         grid-column-start: 1;
         grid-column-end: 3;
     }
     
     .side-content {
-        box-shadow: inset 0 0 0 1px red;
         grid-row-start: 2;
         grid-row-end: 4;
-        
+        block-size: 90vh;
+        position: sticky;
+        top: 220px;
     }
 
 
     .content-categories {
         display: grid;
-        gap: 20px;
+        gap: 30px;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
-        box-shadow: inset 0 0 0 1px red;
     }
 
- 
+    .content-details {
+        display: flex;
+        inline-size: 80%;
+        block-size: 80%;
+        gap: 40px;
+    }
+
+    .menu {
+
+    }
+    
+    .menu-wrapper {
+        background-color: var(--white);
+        margin-block-start:180px;
+        margin-block-end: 40px;
+        display: flex;
+        padding-block: 30px;
+        padding-inline: 30px;
+        flex-direction: row-reverse;
+        gap: 20px;
+        border-radius: 16px;
+        margin-inline-start: 150px;
+    }
+    
+    .menu-wrapper .box {
+        padding-block: 16px;
+        padding-inline: 16px;
+        display: flex;
+        flex-direction: column;
+        background-color: var(--gray10);
+        inline-size: 75px;
+        block-size: 80px;
+        border-radius: 16px;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .menu-wrapper a {
+        text-decoration: none;
+    }
 
 }
