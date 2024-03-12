@@ -27,54 +27,36 @@
 
 .icon-mail:before {
   content: "\e919";
-  color: #b578ff;
 }
 .icon-phone:before {
   content: "\e91d";
-  color: #f06d8f;
 }
 .icon-github:before {
   content: "\e91e";
-  color:cadetblue;
 }
 .icon-twitter:before {
   content: "\e921";
-  color: #1da1f2;
 }
 .icon-web:before {
   content: "\e924";
-  color: #269fff;
-  font-size: 48px;
 }
 .icon-managment:before {
   content: "\e925";
-  color: #ff75d8;
-  font-size: 48px;
 }
 .icon-camera:before {
   content: "\e926";
-  color: #ff6080;
-  font-size: 48px;
 }
 .icon-fotography:before {
   content: "\e927";
-  color: #8774ff;
-  font-size: 48px;
 }
 .icon-development:before {
   content: "\e928";
-  color: #dda10c;
-  font-size: 48px;
 }
 .icon-books:before {
   content: "\e929";
-  color: #d566ff;
-  font-size: 48px;
 }
 .icon-home:before {
   content: "\e900";
-  font-size: 28px;
-  color: #d566ff;
 }
 .icon-home2:before {
   content: "\e901";
@@ -177,8 +159,6 @@
 }
 .icon-file-text:before {
   content: "\e92c";
-  font-size: 28px;
-  color: #dda10c;
 }
 .icon-profile:before {
   content: "\e92d";
@@ -284,16 +264,12 @@
 }
 .icon-envelop:before {
   content: "\e94f";
-  color: #ff75d8;
-  font-size: 28px;
 }
 .icon-pushpin:before {
   content: "\e950";
 }
 .icon-location:before {
   content: "\e951";
-  color: #ff6080;
-  font-size: 28px;
 }
 .icon-location2:before {
   content: "\e952";
@@ -330,7 +306,6 @@
 }
 .icon-calendar:before {
   content: "\e95d";
-  color:aqua;
 }
 .icon-printer:before {
   content: "\e95e";
@@ -343,8 +318,6 @@
 }
 .icon-laptop:before {
   content: "\e961";
-  color: #ff6080;
-  font-size: 28px;
 }
 .icon-mobile:before {
   content: "\e962";
@@ -1456,8 +1429,6 @@
 }
 .icon-linkedin:before {
   content: "\ead3";
-  color: #0072B1;
-
 }
 .icon-linkedin2:before {
   content: "\ead4";
