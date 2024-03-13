@@ -95,7 +95,7 @@ body {
     /* margin-block-start: 100px; */
     text-align: center;
     padding-inline: 24px;
-    
+    padding-block-end: 24px;
 }
 
 .side-content-wrapper img {
@@ -212,7 +212,6 @@ body {
     padding-inline: 24px;
     padding-block: 24px;
     gap: 16px;
-    
 }
 
 .content-details:nth-of-type(1) {
@@ -244,13 +243,13 @@ body {
     margin: 0;
 }
 
-#about-me, #experience {
+#about-me, #experience, #education {
     display: none;
 }
 
 .content-resume {
     display: grid;
-    grid-template-columns: 1fr[education];
+    grid-template-columns: 1fr;
     grid-template-rows: repeat(20,px);
     gap: 10px;
 }
@@ -289,9 +288,6 @@ body {
 
 .content-resume .box a {
     text-decoration: none;
-}
-
-.content-resume .box a {
     font-size: 48px;
     padding-inline: 20px;
     color: var(--font-color5)
@@ -300,6 +296,63 @@ body {
 .content-resume-download {
     display: flex;
     align-items: center;
+}
+
+.content-resume .box-proyects {
+    border-radius: 16px;
+    padding-inline: 5px;
+    padding-block: 5px;
+}
+
+.content-resume-proyects {
+    display: flex;
+    align-items: center;
+}
+
+.content-resume-proyects img {
+    border-radius: 24px;
+    margin-inline-start: 20px;
+}
+
+.content-resume-proyects-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: px;
+}
+
+.content-resume-proyects-details .box-detail-title {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    font-size: 16px;
+}
+.content-resume-proyects-details .box-detail-links {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-size: 16px;
+    margin-inline-start: 20px;
+}
+
+.content-resume-proyects-details i{
+    font-size: 24px;
+}
+
+.content-resume-proyects-details .box-detail-links a {
+    padding-inline: 10px;
+}
+
+.content-resume-proyects-details .box-detail-links i {
+    background-color: var(--white);
+    font-size: 24px;
+    padding-inline: 8px;
+    padding-block: 8px;
+    border-radius: 8px;
+}
+
+.content-resume-proyects-details .box-detail-links i:hover{
+    background: var(--font-color7)  ;
+    
 }
 
 .content-resume .box:nth-of-type(1) {
@@ -358,6 +411,9 @@ body {
         grid-template-rows: px px px;
         column-gap: 40px;
     }
+    .side-content-wrapper {
+        box-shadow: inset 0 0 0 1px red;
+    }
 
     .content-wrapper {
         /* margin: 0 auto; */
@@ -371,7 +427,7 @@ body {
     .side-content {
         grid-row-start: 2;
         grid-row-end: 4;
-        block-size: 90vh;
+        block-size: 80vh;
         position: sticky;
         top: 220px;
     }
