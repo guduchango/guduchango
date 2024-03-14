@@ -22,8 +22,8 @@
     --font-color7: #ff6080;
     --font-color8: #b578ff;
     --font-color9: #dda10c;
-    --font-color10:  #3e32ee;
-    --font-color11: #0A66C2;
+    --font-color10:#3e32ee;
+    --font-color11:#0A66C2;
 
     --hover: rgb(250, 176, 196);
 }
@@ -45,7 +45,7 @@ body {
     row-gap: 5px;
 }
 
-.header {
+header {
     border-radius: 16px;
     position: sticky;
     top: 0; 
@@ -54,7 +54,7 @@ body {
     flex-direction: row-reverse;
 }
 
-.header-wrapper {
+nav {
     background-color: var(--white);
     display: flex;
     padding-block: 5px;
@@ -66,27 +66,48 @@ body {
     box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-.header .box {
+
+.nav-box {
+    padding-block: 16px;
+    padding-inline: 16px;
+    display: flex;
+    flex-direction: column;
     background-color: var(--gray10);
-    padding-inline: 10px;
-    padding-block: 10px;
-    border-radius: 12px;
     transition: 0s background-color;
+    inline-size: 25px;
+    block-size: 30px;
+    border-radius: 16px;
+    justify-content: center;
+    text-align: center;
 }
 
-.header a {
+.nav-box i {
+    font-size: 24px;
+}
+
+.nav-box a {
     text-decoration: none;
 }
 
-.header .box:hover {
+.nav-box:hover {
     background: var(--hover);
     transition-delay:0.1s;
 }
 
-
+nav .nav-box:nth-of-type(1) i {
+    color: var(--font-color1);
+}
+nav .nav-box:nth-of-type(2) i {
+    color: var(--font-color2);
+}
+nav .nav-box:nth-of-type(3) i {
+    color: var(--font-color3);
+}
+nav .nav-box:nth-of-type(4) i {
+    color: var(--font-color4);
+}
 main {
     background: var(--white) ;
-    
     margin-block-start: 180px;
     margin-block-end: 24px;
     border-radius: 20px; 
@@ -135,13 +156,26 @@ main {
     text-decoration: none;
 }
 
-.mainWrapper-socialIcons a:nth-of-type(1) {
+.mainWrapper-socialIcons a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--gray10);
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 0.5rem;
+    transition: 0s background-color;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.mainWrapper-socialIcons a:nth-of-type(1) i {
     color: var(--font-color4)
 }
-.mainWrapper-socialIcons a:nth-of-type(2) {
-    color: var(--font-color10)
+.mainWrapper-socialIcons a:nth-of-type(2) i {
+    color: black;
 }
-.mainWrapper-socialIcons a:nth-of-type(3) {
+.mainWrapper-socialIcons a:nth-of-type(3) i {
     color: var(--font-color11)
 }
 
@@ -460,12 +494,8 @@ section h2 {
 
 @media screen and (min-width: 900px) {
 
-    .header-wrapper {
+    nav {
         display: none;
-    }
-
-    body {
-        /* margin: 0 auto; */
     }
 
     .layout {
@@ -521,7 +551,7 @@ section h2 {
         margin-inline-start: 150px;
     }
     
-    .menu-wrapper .box {
+    .menuWrapper-box {
         padding-block: 16px;
         padding-inline: 16px;
         display: flex;
@@ -535,7 +565,7 @@ section h2 {
         text-align: center;
     }
 
-    .menu-wrapper .box:hover {
+    .menuWrapper-box:hover {
         background: rgb(250, 176, 196);
         transition-delay:0.1s;
     }
@@ -544,18 +574,20 @@ section h2 {
         text-decoration: none;
     }
 
-    .menu-wrapper span {
+    .menu-wrapper i {
         font-size: 48px;
     }
 
-    .menu-wrapper .box:nth-of-type(1) span{
+    .menu-wrapper .menuWrapper-box:nth-of-type(1) i{
         color: var(--font-color1)
     }
-    .menu-wrapper .box:nth-of-type(2) span{
+    .menu-wrapper .menuWrapper-box:nth-of-type(2) i{
         color: var(--font-color2)
     }
-    .menu-wrapper .box:nth-of-type(3) span{
+    .menu-wrapper .menuWrapper-box:nth-of-type(3) i{
         color: var(--font-color3)
     }
-
+    .menu-wrapper .menuWrapper-box:nth-of-type(4) i{
+        color: var(--font-color4)
+    }
 }
