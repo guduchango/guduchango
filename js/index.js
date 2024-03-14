@@ -4,6 +4,10 @@ var div_experience = document.getElementById('experience');
 var div_education = document.getElementById('education');
 var div_proyects = document.getElementById('proyects');
 
+div_proyects.style.display = 'block';
+div_aboutme.style.display = 'none';
+div_experience.style.display = 'none';
+div_education.style.display = 'none';
 
 document.getElementById('btn-about-me').addEventListener('click', function () {
     div_aboutme.style.display = 'block';
