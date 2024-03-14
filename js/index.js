@@ -79,24 +79,14 @@ document.getElementById('projectsHomeIcon-btn').addEventListener('click', functi
 // Función para manejar el cambio de diseño
 function handleLayoutChange(mediaQuery) {
     if (mediaQuery.matches) {
-      // Cambios que deseas realizar cuando cambia a diseño de escritorio
-      console.log("Cambiaste a diseño de escritorio");
-    } else {
-      // Cambios que deseas realizar cuando cambia a diseño móvil
-      console.log("Cambiaste a diseño móvil");
+      main.style.display = 'block';
     }
   }
-  
-  // Establecer el objeto MediaQueryList para el diseño móvil y de escritorio
   var mobileMediaQuery = window.matchMedia("(min-width: 900px)");
-  
-  // Ejecutar la función inicialmente
   handleLayoutChange(mobileMediaQuery);
-  
-  // Agregar un listener para el evento resize
   window.addEventListener("resize", function() {
     handleLayoutChange(mobileMediaQuery);
-    main.style.display = 'block';
+    
   });
 
 
