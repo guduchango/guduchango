@@ -518,11 +518,10 @@ section h2 {
     main {
         grid-row-start: 2;
         grid-row-end: 4;
-        block-size: 80vh;
+        block-size: 100dvh;
         position: sticky;
         top: 220px;
     }
-
 
     .aboutMe-boxes {
         display: grid;
