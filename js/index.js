@@ -5,7 +5,12 @@ var div_education = document.getElementById('education');
 var div_proyects = document.getElementById('proyects');
 var main = document.querySelector('main');
 
-console.log(main.attributes)
+div_aboutme.style.display = 'block';
+main.style.display = 'block';
+div_experience.style.display = 'none';
+div_education.style.display = 'none';
+div_proyects.style.display = 'none';
+
 
 document.getElementById('btn-about-me').addEventListener('click', function () {
     div_aboutme.style.display = 'block';
