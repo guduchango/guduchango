@@ -24,33 +24,35 @@
             <header class="header">
                 <nav>
                     <div class="nav-box" title="home">
-                        <a id="mobileHomeIcon-btn" href="#">
-                            <i class="icon-home"></i>
+                        <a id="mobileHomeIcon-btn"  href="#">
+                            <i class="icon-home" aria-hidden="true"></i>
                         </a>
                     </div>
                     <div class="nav-box" title="experience">
                         <a id="experienceHomeIcon-btn" href="#">
-                            <i class="icon-file-text"></i>
+                            <i class="icon-file-text" aria-hidden="true"></i>
                         </a>
                     </div>
                     <div class="nav-box" title="education">
                         <a id="educationHomeIcon-btn" href="#">
-                            <i class="icon-shield"></i>
+                            <i class="icon-shield" aria-hidden="true"></i>
                         </a>
                     </div>
                     <div class="nav-box" title="projects">
                         <a id="projectsHomeIcon-btn" href="#">
-                            <i class="icon-laptop"></i>
+                            <i class="icon-laptop" aria-hidden="true"></i>
                         </a>
                     </div>
                 </nav>
             </header>
             <main>
                 <div class="main-wrapper">
-                    <img src="./images/chango.jpeg" width="256" height="256" alt="">
+                    <a href="/" aria-current="page">
+                        <img src="./images/chango.jpeg" width="256" height="256" alt="Foto edgardo ponce">
+                    </a>
                     <h1>Edgardo Ponce</h1>
                     <h2>Full Stack Developer</h2>
-                    <div class="mainWrapper-socialIcons">
+                    <div class="mainWrapper-socialIcons" aria-labelledby="social networks">
                         <a target="_blank"
                             href="https://www.linkedin.com/in/edgardo-dami%C3%A1n-ponce-p%C3%A1ez-b9069470/">
                             <i class="icon-linkedin" aria-hidden="true"></i>
@@ -62,7 +64,7 @@
                             <i class="icon-twitter" aria-hidden="true"></i>
                         </a>
                     </div>
-                    <div class="mainWrapper-personalInfo">
+                    <div class="mainWrapper-personalInfo" aria-labelledby="personal info">
                         <div class="mainWrapperPersonalInfo-item">
                             <div class="mainWrapperPersonalInfoItem-icon">
                                 <i class="icon-phone"></i>
@@ -100,6 +102,7 @@
                             </div>
                         </div>
                     </div>
+     
                 </div>
             </main>
             <div class="menu">
@@ -131,7 +134,7 @@
                     </div>
                 </div>
             </div>
-            <section id="about-me">
+            <section id="about-me" aria-labelledby="about me">
                 <div class="section-wrapper">
                     <div class="aboutMe-info">
                         <h2>About Me</h2>
@@ -207,7 +210,7 @@
                     </div>
                 </div>
             </section>
-            <section id="experience">
+            <section id="experience" aria-labelledby="experience">
                 <div class="section-wrapper">
                     <h2>Experience</h2>
                     <div class="experience-boxes boxes-color">
@@ -321,7 +324,7 @@
                     </div>
                 </div>
             </section>
-            <section id="education">
+            <section id="education" aria-labelledby="education">
                 <div class="section-wrapper">
                     <h2>Education</h2>
                     <div class="education-boxes boxes-color">
@@ -381,7 +384,7 @@
                     </div>
                 </div>
             </section>
-            <section id="proyects">
+            <section id="proyects" aria-labelledby="projects">
                 <div class="section-wrapper">
                     <h2>Projects</h2>
                     <div class="proyect-boxes boxes-color">
@@ -594,6 +597,10 @@
                 </div>
             </section>
         </div>
+        <footer>
+            <p>© 2024 Edgardo Ponce. Todos los derechos reservados.</p>
+            <p>Este sitio web y su contenido están protegidos por las leyes de propiedad intelectual. Queda prohibida cualquier reproducción, distribución, o modificación del contenido sin autorización previa.</p>
+        </footer>
     </div>
     <script src="./js/index.js"></script>
 </body>
