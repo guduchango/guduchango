@@ -34,22 +34,28 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
 ---
 
 ## 🏆 Certifications
+<p align="left">
+<img src="https://edgardoponce.com/images/icons/flask.svg" alt="Python Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/python.svg" alt="Python Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/whatsapp-business-bg.svg" alt="Whatsapp Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/aws.svg" alt="AWS Icon" width="100" height="100">
+</p>
 
 <div style="display: flex;">
   <div style="text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/flask.svg" alt="Python Icon" width="100" height="100">
+    
     <p>Flask</p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/python.svg" alt="Python Icon" width="100" height="100">
+   
     <p>Python</p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/whatsapp-business-bg.svg" alt="Whatsapp Icon" width="100" height="100">
+   
     <p>WP API</p>
   </div>
    <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/aws.svg" alt="AWS Icon" width="100" height="100">
+    
     <p>AWS</p>
   </div>
    <div style="display: inline-block; text-align: center; margin: 10px;">
