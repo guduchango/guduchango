@@ -50,14 +50,14 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
 
 ## 📥 Download
 
-Click [here](https://edgardoponce.com/es/education) to download certifications.
+Click [here](https://edgardoponce.com/en/education) to download certifications.
 
 ---
 
 ## 📈 Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guduchango&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guduchango&layout=compact&theme=radical)  
 
 ---
 
