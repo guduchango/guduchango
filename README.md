@@ -35,7 +35,7 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
 
 ## 🏆 Certifications
 
-<div align="center">
+<div style="display: flex;">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://edgardoponce.com/images/icons/flask.svg" alt="Python Icon" width="100" height="100">
     <p>Flask</p>
