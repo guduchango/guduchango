@@ -39,47 +39,14 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
 <img src="https://edgardoponce.com/images/icons/python.svg" alt="Python Icon" width="100" height="100">
 <img src="https://edgardoponce.com/images/icons/whatsapp-business-bg.svg" alt="Whatsapp Icon" width="100" height="100">
 <img src="https://edgardoponce.com/images/icons/aws.svg" alt="AWS Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/figma-icon.svg" alt="AWS Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/typescript.svg" alt="Typescript Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/react-icon.svg" alt="React Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/tailwindcss.svg" alt="Tailwind Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/css-3.svg" alt="Css Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/laravel.svg" alt="Laravel Icon" width="100" height="100">
+<img src="https://edgardoponce.com/images/icons/notion.svg" alt="Notion Icon" width="100" height="100">
 </p>
-
-<div style="display: flex;">
-  <div style="text-align: center; margin: 10px;">
-    
-    <p>Flask</p>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-   
-    <p>Python</p>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-   
-    <p>WP API</p>
-  </div>
-   <div style="display: inline-block; text-align: center; margin: 10px;">
-    
-    <p>AWS</p>
-  </div>
-   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/figma-icon.svg" alt="AWS Icon" width="100" height="100">
-    <p>Figma</p>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/typescript.svg" alt="Typescript Icon" width="100" height="100">
-    <p>Typescript</p>
-  </div>
-   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/react-icon.svg" alt="React Icon" width="100" height="100">
-    <p>React</p>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/tailwindcss.svg" alt="Tailwind Icon" width="100" height="100">
-    <p>Tailwind</p>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://edgardoponce.com/images/icons/css-3.svg" alt="Css Icon" width="100" height="100">
-    <p>Css 3</p>
-  </div>
- 
-</div>
 
 ## 📥 Download
 
