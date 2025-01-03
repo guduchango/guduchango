@@ -7,7 +7,7 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
 ## 🌟 About Me  
 
 - 🎓 **Background:** I have experience in software development, lead teams, ecommerce, cloud architecture.  
-- 🛠️ **Current Focus:** Exploring **Concurrency and Parallelism, Artificial Intelligence (AI), WhatsApp Business API, Interactive Mockups with Figma, Dexie.js Frontend Database**.  
+- 🛠️ **Current Focus:** Exploring: Concurrency and Parallelism, Artificial Intelligence (AI), WhatsApp Business API, Interactive Mockups with Figma, Dexie.js Frontend Database.  
 - 💡 **Passionate About:** Solving real-world problems using technology, open-source contributions, and mentoring others.  
 - 🌍 **Hobbies:** When I’m not coding, you’ll find me swimming, exploring new flavors and savoring fine wine.  
 
@@ -63,13 +63,12 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
    <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://edgardoponce.com/images/icons/react-icon.svg" alt="React Icon" width="100" height="100">
     <p>React</p>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://edgardoponce.com/images/icons/tailwindcss.svg" alt="Tailwind Icon" width="100" height="100">
     <p>Tailwind</p>
-    </div>
-   </div>
-    <div style="display: inline-block; text-align: center; margin: 10px;">
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://edgardoponce.com/images/icons/css-3.svg" alt="Css Icon" width="100" height="100">
     <p>Css 3</p>
   </div>
