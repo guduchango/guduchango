@@ -1,38 +1,101 @@
-<h1 align="center">Hi 👋, I'm Edgardo Ponce</h1>
-<h3 align="center">A passionate full-stack developer from Argentina</h3>
+# 👋 Hi there! Welcome to my GitHub profile  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guduchango&label=Profile%20views&color=0e75b6&style=flat" alt="guduchango" /> </p>
+I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** with a drive for creating impactful solutions and continuously learning.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guduchango" alt="guduchango" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/edgardo__ponce" target="blank"><img src="https://img.shields.io/twitter/follow/edgardo__ponce?logo=twitter&style=for-the-badge" alt="edgardo__ponce" /></a> </p>
+## 🌟 About Me  
 
-- 🌱 I’m currently learning **CSS, Flexbox, CssGrid, React, TypeScript, NextJs, TailwindCss**
+- 🎓 **Background:** I have experience in software development, lead teams, ecommerce, cloud architecture.  
+- 🛠️ **Current Focus:** Exploring **Concurrency and Parallelism, Artificial Intelligence (AI), WhatsApp Business API, Interactive Mockups with Figma, Dexie.js Frontend Database**.  
+- 💡 **Passionate About:** Solving real-world problems using technology, open-source contributions, and mentoring others.  
+- 🌍 **Hobbies:** When I’m not coding, you’ll find me swimming, exploring new flavors and savoring fine wine.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/guduchango?tab=repositories](https://github.com/guduchango?tab=repositories)
+---
 
-- 💬 Ask me about **php, laravel, react**
+## 🛠️ Skills & Tools  
 
-- 📫 How to reach me **ed.poncepaez@gmail.com**
+### Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-3776AB?logo=php&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-typescript-3776AB?logo=TypeScript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
 
-- ⚡ Fun fact **I like swimming**
+### Frameworks & Libraries  
+- **Frontend:** React, Vue, Tailwind CSS, Bootstrap
+- **Backend:** Flask, Sanic, Laravel, Codeigniter, Magento  
+- **Databases:** MySQL, Sqlite, PostgreSQL, BigQuery, AppEngine datastore, MongoDB
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/edgardo__ponce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edgardo__ponce" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edgardo-damián-ponce-páez-b9069470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgardo-damián-ponce-páez-b9069470" height="30" width="40" /></a>
-</p>
+### Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-007ACC?style=flat)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guduchango&show_icons=true&locale=en&layout=compact" alt="guduchango" /></p>
+## 🏆 Certifications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guduchango&show_icons=true&locale=en" alt="guduchango" /></p>
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/flask.svg" alt="Python Icon" width="100" height="100">
+    <p>Flask</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/python.svg" alt="Python Icon" width="100" height="100">
+    <p>Python</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/whatsapp-business-bg.svg" alt="Whatsapp Icon" width="100" height="100">
+    <p>WP API</p>
+  </div>
+   <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/aws.svg" alt="AWS Icon" width="100" height="100">
+    <p>AWS</p>
+  </div>
+   <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/figma-icon.svg" alt="AWS Icon" width="100" height="100">
+    <p>Figma</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/typescript.svg" alt="Typescript Icon" width="100" height="100">
+    <p>Typescript</p>
+  </div>
+   <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/react-icon.svg" alt="React Icon" width="100" height="100">
+    <p>React</p>
+    </div>
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/tailwindcss.svg" alt="Tailwind Icon" width="100" height="100">
+    <p>Tailwind</p>
+    </div>
+   </div>
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://edgardoponce.com/images/icons/css-3.svg" alt="Css Icon" width="100" height="100">
+    <p>Css 3</p>
+  </div>
+ 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guduchango&" alt="guduchango" /></p>
+## 📥 Download
+
+Click [here](https://edgardoponce.com/es/education) to download certifications.
+
+---
+
+## 📈 Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Let’s Connect!  
+
+- 💼 **Portfolio:** [edgardoponce.com](https://edgardoponce.com/)  
+- 💬 **LinkedIn:** [edgardoponce](https://www.linkedin.com/in/edgardo-dami%C3%A1n-ponce-p%C3%A1ez-b9069470/)  
+- 🐦 **Twitter:** [@edgardo__ponce](https://x.com/edgardo__ponce)  
+- 📧 **Email:** [hello@edgardoponce.com](mailto:hello@edgardoponce.com)  
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, and don’t hesitate to reach out. Let’s innovate together! 🌟✨
