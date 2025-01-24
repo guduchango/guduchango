@@ -35,6 +35,7 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
 
 ## 🏆 Certifications
 <p align="left">
+<img src="https://edgardoponce.com/images/icons/vue_1.svg" alt="Vue" width="100" height="100">
 <img src="https://edgardoponce.com/images/icons/flask.svg" alt="Python Icon" width="100" height="100">
 <img src="https://edgardoponce.com/images/icons/python.svg" alt="Python Icon" width="100" height="100">
 <img src="https://edgardoponce.com/images/icons/whatsapp-business-bg.svg" alt="Whatsapp Icon" width="100" height="100">
