@@ -1,0 +1,52 @@
+Documento de Requerimientos Técnicos (RFP - Request for Proposal)
+
+Portada:
+
+	•	Título: Desarrollo de Software de Supervisión Comercial SaaS
+	•	Empresa solicitante: Mercosoft Consultores
+	•	Fecha: 10/12/2024
+
+Secciones:
+
+	1.	Descripción del proyecto:
+	•	Resumen:
+Buscamos desarrollar un software SaaS para supervisión comercial que permita registrar actividades de los vendedores, monitorear objetivos y generar reportes automatizados. El producto debe ser accesible, fácil de usar y compatible con dispositivos móviles.
+	•	Objetivo:
+Optimizar la gestión de equipos de ventas en tiempo real, mejorando la productividad y facilitando la supervisión.
+	2.	Funciones clave:
+	•	Para vendedores:
+	•	Registro de actividades: llamadas, reuniones, ventas.
+	•	Panel con objetivos semanales/mensuales.
+	•	Versión móvil para registrar desde el campo.
+	•	Para supervisores:
+	•	Dashboard con métricas de rendimiento.
+	•	Seguimiento de actividades en tiempo real.
+	•	Reportes automáticos de desempeño.
+	•	Extras:
+	•	Geolocalización opcional para vendedores de campo.
+	•	Gamificación para incentivar al equipo.
+	3.	Requerimientos técnicos:
+	•	Frontend:
+	•	Interfaz amigable y responsive (React, Angular o similar).
+	•	Backend:
+	•	Sistema robusto para manejar grandes volúmenes de datos (Node.js, Python o Ruby on Rails).
+	•	Base de datos:
+	•	MySQL, PostgreSQL o MongoDB.
+	•	Infraestructura en la nube:
+	•	AWS, Google Cloud o Azure.
+	•	Integraciones:
+	•	Google Calendar, correo electrónico, WhatsApp Business.
+	4.	Plazos de entrega:
+	•	Inicio del proyecto: [Fecha]
+	•	Entrega del MVP: [4 meses después del inicio]
+	•	Fase de pruebas: [1 mes después del MVP]
+	5.	Presupuesto estimado:
+	•	Rango entre $10,000 y $25,000.
+	6.	Criterios de selección:
+	•	Experiencia previa en SaaS.
+	•	Portafolio de proyectos similares.
+	•	Propuesta de costos y cronograma de desarrollo.
+	7.	Propuesta y contacto:
+	•	Fecha límite para enviar propuestas: [30/12/2024]
+	•	Dirección de correo: mario@todologistica.com
+	•	Datos de contacto: +59893870150
