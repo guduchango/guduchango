@@ -7,7 +7,7 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
 ## 🌟 About Me  
 
 - 🎓 **Background:** I have experience in software development, lead teams, ecommerce, cloud architecture.  
-- 🛠️ **Current Focus:** Exploring: Concurrency and Parallelism, Artificial Intelligence (AI), WhatsApp Business API, Interactive Mockups with Figma, Dexie.js Frontend Database.  
+- 🛠️ **Current Focus:** Exploring: Concurrency and Parallelism, Artificial Intelligence (AI), Local LLM model implementation with Ollama, Semantic search and context retrieval with ChromaDB.  
 - 💡 **Passionate About:** Solving real-world problems using technology, open-source contributions, and mentoring others.  
 - 🌍 **Hobbies:** When I’m not coding, you’ll find me swimming, exploring new flavors and savoring fine wine.  
 
@@ -21,7 +21,8 @@ I'm **Edgardo Ponce**, a passionate **Full-Stack Developer, Cloud Enthusiast** w
 ![TypeScript](https://img.shields.io/badge/-typescript-3776AB?logo=TypeScript&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
 
-### Frameworks & Libraries  
+### Frameworks & Libraries
+- **AI:** Local LLM, Llama3, DeepSeek, Semantic search (ChromaDB), Text vectorization using Sentence Transformers
 - **Frontend:** React, Vue, Tailwind CSS, Bootstrap
 - **Backend:** Flask, Sanic, Laravel, Codeigniter, Magento  
 - **Databases:** MySQL, Sqlite, PostgreSQL, BigQuery, AppEngine datastore, MongoDB
@@ -66,7 +67,7 @@ Click [here](https://edgardoponce.com/en/education) to download certifications.
 
 - 💼 **Portfolio:** [edgardoponce.com](https://edgardoponce.com/)  
 - 💬 **LinkedIn:** [edgardoponce](https://www.linkedin.com/in/edgardo-dami%C3%A1n-ponce-p%C3%A1ez-b9069470/)  
-- 🐦 **Twitter:** [@edgardo__ponce](https://x.com/edgardo__ponce)  
+- 🐦 **Twitter:** [@edgardo__ponce](https://x.com/edgardo_codes)  
 - 📧 **Email:** [hello@edgardoponce.com](mailto:hello@edgardoponce.com)  
 
 ---
