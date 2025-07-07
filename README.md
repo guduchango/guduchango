@@ -67,9 +67,7 @@ Click [here](https://edgardoponce.com/en/education) to download certifications.
 
 - 💼 **Portfolio:** [edgardoponce.com](https://edgardoponce.com/)  
 - 💬 **LinkedIn:** [edgardoponce](https://www.linkedin.com/in/edgardo-dami%C3%A1n-ponce-p%C3%A1ez-b9069470/)  
-- 🐦 **Twitter:** [@edgardo__ponce](https://x.com/edgardo_codes)  
-- 📧 **Email:** [hello@edgardoponce.com](mailto:hello@edgardoponce.com)  
-
----
+- Ⓧ **X:** [@edgardo_codes](https://x.com/edgardo_codes)  
+- 📧 **Email:** [hello@edgardoponce.com](mailto:hello@edgardoponce.com)
 
 Thanks for stopping by! Feel free to explore my repositories, and don’t hesitate to reach out. Let’s innovate together! 🌟✨
